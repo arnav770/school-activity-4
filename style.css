@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+#img {
+    border-radius: 50;
+}
